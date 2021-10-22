@@ -1,2 +1,2 @@
-# web-praktikum-2021-ti05
-Repo ini berisi latihan praktikum web
+web-praktikum-2021-ti05
+Repository Ini Berisi Latiah Praktikum 1-3
