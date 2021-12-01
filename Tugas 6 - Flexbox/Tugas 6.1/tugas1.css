@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+img{
+    width: 100%;
+}
+.head1 {
+    width: 18%;
+    height: 8%;
+    margin: 10px; 
+}
+
+.head1 {
+    width: 31%;
+}
+
+.head2 {
+    margin-left: 20px;
+}
+

@@ -1,0 +1,42 @@
+.container {
+    font-size: 50px;
+    display: flex;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav {
+width: 13%;
+height: 630px;
+background-color: crimson;
+}
+
+.header {
+    width: 180vh;
+    height: 115px;
+    background-color: aquamarine;
+}
+
+.container3 {
+    display: flex;
+}
+
+article {
+    width: 130vh;
+    height: 400px;
+    background-color: blanchedalmond;
+}
+
+aside {
+    width: 50vh;
+    height: 400px;
+    background-color: cadetblue;
+}
+
+.foot {
+    width: 180vh;
+    height: 115px;
+    background-color: aquamarine;
+}
