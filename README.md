@@ -1,2 +1,2 @@
-# Web-Praktikum-2021-TI05
+# Web-Progamming-2022
 Repository Ini Berisi Latihan Praktikum Pemrograman Web
